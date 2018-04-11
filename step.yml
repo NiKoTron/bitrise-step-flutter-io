@@ -44,7 +44,7 @@ inputs:
       value_options:
       - "no"
       - "yes"
- - flutter_branch: "dev"
+  - flutter_branch: "dev"
     opts:
       title: "Flutter.io branch"
       summary: |-
