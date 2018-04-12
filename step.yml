@@ -56,3 +56,9 @@ inputs:
       - "alpha"
       - "beta"
       - "dev"
+      
+outputs:
+  - FLUTTER_HOME: null
+    opts:
+      summary: "Flutter.io home directory"
+      title: "Flutter.io home"
